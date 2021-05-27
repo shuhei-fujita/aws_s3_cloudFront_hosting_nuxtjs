@@ -5,6 +5,7 @@ http://aws-s3-nuxt.s3-website-ap-northeast-1.amazonaws.com/
 
 #参考
 https://engineer-ninaritai.com/aws-s3-nuxt/
+https://ja.nuxtjs.org/docs/2.x/deployment/deployment-amazon-web-services/
 
 ## Build Setup
 
