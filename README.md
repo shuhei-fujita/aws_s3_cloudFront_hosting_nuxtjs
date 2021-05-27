@@ -1,5 +1,8 @@
 # aws-s3-hosting-nuxtjs
 
+#参考
+https://engineer-ninaritai.com/aws-s3-nuxt/
+
 ## Build Setup
 
 ```bash
