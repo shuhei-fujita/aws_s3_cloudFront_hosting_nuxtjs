@@ -1,7 +1,11 @@
 # aws-s3-hosting-nuxtjs
+http://aws-s3-nuxt.s3-website-ap-northeast-1.amazonaws.com/
 
-#参考
+![スクリーンショット 2021-05-28 6 42 00](https://user-images.githubusercontent.com/38001967/119900686-d037c600-bf7f-11eb-88c5-8afd8e48a360.jpg)
+
+# 参考
 https://engineer-ninaritai.com/aws-s3-nuxt/
+https://ja.nuxtjs.org/docs/2.x/deployment/deployment-amazon-web-services/
 
 ## Build Setup
 
